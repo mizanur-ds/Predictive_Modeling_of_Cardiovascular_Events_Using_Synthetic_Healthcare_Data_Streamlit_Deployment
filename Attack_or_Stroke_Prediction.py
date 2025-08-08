@@ -51,7 +51,7 @@ def train_models():
 
 
 def main():
-    st.title("Heart Attack or Stroke Prediction")
+    st.title("Heart Attack and Stroke Prediction")
     st.markdown("Step-by-step feature input using the best model.")
 
     model, feature_names, model_scores = train_models()
@@ -144,3 +144,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
