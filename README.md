@@ -32,3 +32,24 @@ Enter your health details step-by-step and instantly see your estimated risk pro
 ├── final_df.csv                          # Processed dataset ready for modeling
 ├── requirements.txt                      # Dependencies
 └── README.md                             # Project documentation
+```
+
+## ⚙️ Installation & Usage
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/yourusername/Heart-Stroke-Prediction.git
+cd Heart-Stroke-Prediction
+```
+
+### 2️⃣ Install Requirements
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the Streamlit App Locally
+```bash
+streamlit run Attack_or_Stroke_prediction.py
+```
+Or use the hosted version:
+🔗(https://heartattackandstrokeriskprediction.streamlit.app/)  Heart Attack and Stroke Risk Prediction App
