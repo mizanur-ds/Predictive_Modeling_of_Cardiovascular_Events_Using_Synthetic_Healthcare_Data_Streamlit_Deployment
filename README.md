@@ -52,4 +52,26 @@ pip install -r requirements.txt
 streamlit run Attack_or_Stroke_prediction.py
 ```
 Or use the hosted version:
-🔗(https://heartattackandstrokeriskprediction.streamlit.app/)  Heart Attack and Stroke Risk Prediction App
+🔗**[Heart Attack and Stroke Risk Prediction App](https://heartattackandstrokeriskprediction.streamlit.app/)**
+
+📈 Example Plot
+Example of average systolic blood pressure by age across groups:
+
+
+🧠 Machine Learning Workflow
+Data Loading – Import and inspect cvd_synthetic_dataset_v0.2.csv
+
+Exploratory Data Analysis (EDA) – Missing values, feature distributions, outlier detection
+
+Data Preprocessing – Encoding categorical variables, scaling numeric values, balancing classes
+
+Model Training – Logistic Regression, model selection based on validation accuracy
+
+Deployment – Interactive Streamlit app for end-user predictions
+
+📜 License
+This project uses a synthetic dataset provided by NIHR ARC Wessex and is intended for educational and research purposes.
+Check the dataset license on the ARC Wessex website.
+
+👨‍💻 Author
+Developed by Mizanur Rahman – Data Science & Machine Learning Enthusiast
