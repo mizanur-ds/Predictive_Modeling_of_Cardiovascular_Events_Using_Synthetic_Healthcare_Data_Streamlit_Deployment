@@ -54,11 +54,19 @@ streamlit run Attack_or_Stroke_prediction.py
 Or use the hosted version:
 🔗**[Heart Attack and Stroke Risk Prediction App](https://heartattackandstrokeriskprediction.streamlit.app/)**
 
-📈 Example Plot
-Example of average systolic blood pressure by age across groups:
+---
+
+### 📈 Example Plot
+<img width="1126" height="989" alt="image" src="https://github.com/user-attachments/assets/aae3b931-3753-4cad-b82d-36eb981e5b09" />
+<img width="1169" height="624" alt="image" src="https://github.com/user-attachments/assets/4ffdc3c3-bb87-498e-878a-9d3bebdad111" />
+<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/168ce7bb-e08b-4bf1-b8b0-62e2d382cbc7" />
+<img width="1389" height="1590" alt="image" src="https://github.com/user-attachments/assets/c1d057b3-f958-4818-9d04-c3d9c4ebd5ad" />
 
 
-🧠 Machine Learning Workflow
+
+---
+
+### 🧠 Machine Learning Workflow
 Data Loading – Import and inspect cvd_synthetic_dataset_v0.2.csv
 
 Exploratory Data Analysis (EDA) – Missing values, feature distributions, outlier detection
