@@ -86,7 +86,7 @@ Deployment – Interactive Streamlit app for end-user predictions
 ### 📜 License
 
 ##### This project uses a synthetic dataset provided by NIHR ARC Wessex and is intended for educational and research purposes.
-Check the dataset license on the ARC Wessex website.
+##### Check the dataset license on the ARC Wessex website.
 ---
 ### 👨‍💻 Author
 Developed by Mizanur Rahman – Data Science & Machine Learning Enthusiast
