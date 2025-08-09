@@ -38,22 +38,26 @@ Enter your health details step-by-step and instantly see your estimated risk pro
 
 ## ⚙️ Installation & Usage
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 ```bash
 git clone https://github.com/mizanur-ds/Predictive_Modeling_of_Cardiovascular_Events_Using_Synthetic_Healthcare_Data_Streamlit_Deployment.git
 cd Predictive_Modeling_of_Cardiovascular_Events_Using_Synthetic_Healthcare_Data_Streamlit_Deployment
 ```
-### 2️⃣ Install Requirements
+### 2️ Install Requirements
 ```bash
 pip install -r requirements.txt
 ```
-
-### 3️⃣ Run the Streamlit App Locally
+### 3 Launch Jupyter Notebook
+```bash
+jupyter notebook
+```
+---
+### 4  Run the Streamlit App Locally
 ```bash
 streamlit run Attack_or_Stroke_prediction.py
 ```
 Or use the hosted version:
-🔗**[Heart Attack and Stroke Risk Prediction App](https://heartattackandstrokeriskprediction.streamlit.app/)**
+🔗[Heart Attack and Stroke Risk Prediction App](https://heartattackandstrokeriskprediction.streamlit.app/)
 
 ---
 
@@ -80,7 +84,8 @@ Deployment – Interactive Streamlit app for end-user predictions
 ---
 
 ### 📜 License
-This project uses a synthetic dataset provided by NIHR ARC Wessex and is intended for educational and research purposes.
+
+######### This project uses a synthetic dataset provided by NIHR ARC Wessex and is intended for educational and research purposes.
 Check the dataset license on the ARC Wessex website.
 ---
 ### 👨‍💻 Author
