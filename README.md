@@ -76,10 +76,12 @@ Data Preprocessing – Encoding categorical variables, scaling numeric values, b
 Model Training – Logistic Regression, model selection based on validation accuracy
 
 Deployment – Interactive Streamlit app for end-user predictions
+---
 
-📜 License
+### 📜 License
 This project uses a synthetic dataset provided by NIHR ARC Wessex and is intended for educational and research purposes.
 Check the dataset license on the ARC Wessex website.
+---
 
-👨‍💻 Author
+### 👨‍💻 Author
 Developed by Mizanur Rahman – Data Science & Machine Learning Enthusiast
