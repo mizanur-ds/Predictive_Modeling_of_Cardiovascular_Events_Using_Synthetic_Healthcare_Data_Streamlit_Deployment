@@ -1,3 +1,5 @@
+# Predictive Modeling of Cardiovascular Events Using Synthetic Healthcare Data and Streamlit Deployment
+---
 ## 📄 Abstract
 This project predicts the risk of heart attack or stroke using a synthetic UK primary care dataset. After data analysis, preprocessing, and testing multiple machine learning models, **Logistic Regression** was chosen for its accuracy and interpretability. The model is deployed as a **Streamlit web app**, enabling users to enter health data and instantly receive a personalized risk probability — all while maintaining privacy through synthetic data.
 
@@ -38,10 +40,9 @@ Enter your health details step-by-step and instantly see your estimated risk pro
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Heart-Stroke-Prediction.git
-cd Heart-Stroke-Prediction
+git clone https://github.com/mizanur-ds/Predictive_Modeling_of_Cardiovascular_Events_Using_Synthetic_Healthcare_Data_Streamlit_Deployment.git
+cd Predictive_Modeling_of_Cardiovascular_Events_Using_Synthetic_Healthcare_Data_Streamlit_Deployment
 ```
-
 ### 2️⃣ Install Requirements
 ```bash
 pip install -r requirements.txt
